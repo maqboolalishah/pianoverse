@@ -6,7 +6,7 @@
 const CONFIG = {
   brand: 'PianoVerse',
   tagline: 'Learn piano in your browser.',
-  siteUrl: 'https://pianoverse.vercel.app',        // ← your live domain (also update sitemap.xml, robots.txt, canonical tags)
+  siteUrl: 'https://pianoverse-mu.vercel.app',        // ← your live domain (also update sitemap.xml, robots.txt, canonical tags)
   contactEmail: 'hello@yourdomain.com',             // ← PLACEHOLDER
   schoolsEmail: 'schools@yourdomain.com',           // ← PLACEHOLDER
   country: '[Your Country]',                         // ← shown in "Built in …"

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pianoverse.vercel.app/sitemap.xml
+Sitemap: https://pianoverse-mu.vercel.app/sitemap.xml

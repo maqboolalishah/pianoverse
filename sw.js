@@ -1,6 +1,6 @@
 /* PianoVerse service worker — offline support for the site and the piano app.
    Bump VERSION whenever you deploy changes to cached files. */
-const VERSION = 'pv-v1';
+const VERSION = 'pv-v2';
 const CORE = [
   './', './index.html', './features.html', './pricing.html', './lessons.html', './about.html',
   './contact.html', './faq.html', './privacy.html', './terms.html', './404.html',
